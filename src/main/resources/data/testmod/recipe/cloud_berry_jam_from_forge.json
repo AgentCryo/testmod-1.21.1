@@ -1,0 +1,21 @@
+{
+  "type": "testmod:forge",
+  "pattern": [
+    "###",
+    "###",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "testmod:cloud_berries"
+    },
+    "B": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result":
+    {
+      "id": "testmod:cloud_berry_jam",
+      "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "testmod:frame"
+    },
+    "G": {
+      "item": "minecraft:grindstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "pattern": [
+    "ISI",
+    "SFS",
+    "IGI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "testmod:refiner_block"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "D": {
+      "item": "testmod:star_dust"
+    },
+    "S": {
+      "item": "testmod:shiny"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "testmod:shiny_lamp"
+  }
+}

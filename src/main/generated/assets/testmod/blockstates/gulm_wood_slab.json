@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "testmod:block/gulm_wood_slab"
+    },
+    "type=double": {
+      "model": "testmod:block/gulm_wood_planks"
+    },
+    "type=top": {
+      "model": "testmod:block/gulm_wood_slab_top"
+    }
+  }
+}

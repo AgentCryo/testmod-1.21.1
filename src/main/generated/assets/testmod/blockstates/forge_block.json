@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "testmod:block/forge_block",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "testmod:block/forge_block"
+    },
+    "facing=south": {
+      "model": "testmod:block/forge_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "testmod:block/forge_block",
+      "y": 270
+    }
+  }
+}

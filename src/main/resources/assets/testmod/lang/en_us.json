@@ -1,0 +1,81 @@
+{
+  "item.testmod.shiny": "Shiny",
+  "item.testmod.unrefined_shiny": "Unrefined Shiny",
+
+  "block.testmod.shiny_block": "Block of Shiny",
+  "block.testmod.shiny_ore": "Shiny Ore",
+  "block.testmod.shiny_deepslate_ore": "Deepslate Shiny Ore",
+
+  "block.testmod.magic_block": "Magic Block",
+  "tooltip.testmod.magic_block_tooltip": "§7Drop Blocks of Coal onto this to create §bdiamonds§7!",
+
+  "block.testmod.shiny_lamp": "Shiny Lamp",
+  "block.testmod.couch": "Comfy Couch",
+  "block.testmod.drill": "Drill",
+  "container.testmod.drill_screen_title": "Drill",
+  "block.testmod.forge_block": "Forge",
+  "container.testmod.forge_screen_title": "Forge",
+  "block.testmod.refinery_block": "Refinery",
+  "container.testmod.refinery_screen_title": "Refinery",
+
+  "block.testmod.gulm_wood_log": "Gulm Wood Log",
+  "block.testmod.gulm_wood_wood": "Gulm Wood Wood",
+  "block.testmod.stripped_gulm_wood_log": "Stripped Gulm Wood Log",
+  "block.testmod.stripped_gulm_wood_wood": "Stripped Gulm Wood Wood",
+  "block.testmod.gulm_wood_leaves": "Gulm Wood Leaves",
+  "block.testmod.gulm_wood_sapling": "Gulm Wood Sapling",
+
+  "block.testmod.gulm_wood_planks": "Gulm Wood Planks",
+  "block.testmod.gulm_wood_stairs": "Gulm Wood Stairs",
+  "block.testmod.gulm_wood_slab": "Gulm Wood Slab",
+  "block.testmod.gulm_wood_button": "Gulm Wood Button",
+  "block.testmod.gulm_wood_pressure_plate": "Gulm Wood Pressure Plate",
+  "block.testmod.gulm_wood_fence": "Gulm Wood Fence",
+  "block.testmod.gulm_wood_fence_gate": "Gulm Wood Fence Gate",
+  "block.testmod.gulm_wood_wall": "Gulm Wood Wall",
+  "block.testmod.gulm_wood_door": "Gulm Wood Door",
+  "block.testmod.gulm_wood_trap_door": "Gulm Wood Trap Door",
+
+  "item.testmod.chisel": "Chisel",
+  "tooltip.testmod.chisel_tooltip_shiftdown": "§7This item chisels blocks into bricks.",
+  "tooltip.testmod.chisel_coord_tooltip": "Last block changed at: ",
+  "tooltip.testmod.chisel_tooltip": "§6Press shift for more information.",
+
+  "item.testmod.hammer": "Hammer",
+
+  "item.testmod.star_dust": "Star Dust",
+  "item.testmod.star_forged_ingot": "Star Forged Ingot",
+
+  "item.testmod.star_forged_sword": "Star Forged Sword",
+  "item.testmod.star_forged_pickaxe": "Star Forged Pickaxe",
+  "item.testmod.star_forged_axe": "Star Forged Axe",
+  "item.testmod.star_forged_shovel": "Star Forged Shovel",
+  "item.testmod.star_forged_hoe": "Star Forged Hoe",
+
+  "item.testmod.star_forged_helmet": "Star Forged Helmet",
+  "item.testmod.star_forged_chestplate": "Star Forged Chestplate",
+  "item.testmod.star_forged_leggings": "Star Forged Leggings",
+  "item.testmod.star_forged_boots": "Star Forged Boots",
+
+  "item.testmod.space_icecream": "Space Icecream",
+  "tooltip.testmod.space_icecream_tooltip": "§7This is delicious.",
+
+  "item.testmod.amaranth": "Amaranth",
+  "item.testmod.amaranth_grain": "Amaranth Grain",
+  "block.testmod.amaranth_crop": "Amaranth Crop",
+
+  "item.testmod.cloud_berries": "Cloud Berries",
+  "block.testmod.cloud_berry_bush": "Cloud Berry Bush",
+  "block.testmod.cloud_berry_jam": "Cloud Berry Jam",
+
+  "effect.testmod.slimy": "Slimy",
+  "item.minecraft.potion.effect.slimy_potion": "Slimy Potion",
+  "item.minecraft.splash_potion.effect.slimy_potion": "Slimy Splash Potion",
+  "item.minecraft.lingering_potion.effect.slimy_potion": "Slimy Lingering Potion",
+  "item.minecraft.tipped_arrow.effect.slimy_potion": "Slimy Tipped Arrow",
+
+  "enchantment.testmod.lightning_striker":  "Lightning Striker",
+  "enchantment.testmod.poison_tipped_blade":  "Poison Tipped Blade",
+
+  "itemgroup.testmod.mod_testing_group": "Mod Testing"
+}

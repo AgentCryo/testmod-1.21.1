@@ -1,0 +1,18 @@
+{
+  "type": "testmod:forge",
+  "pattern": [
+    "   ",
+    " # ",
+    "   "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result":
+    {
+      "id": "minecraft:diamond",
+      "count": 1
+    }
+}

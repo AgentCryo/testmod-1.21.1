@@ -1,0 +1,23 @@
+{
+  "type": "testmod:forge",
+  "pattern": [
+    "   ",
+    " G ",
+    "   "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": [
+    {
+      "id": "minecraft:gold_ingot",
+      "count": 6
+    },
+    {
+      "id": "minecraft:redstone",
+      "count": 2
+    }
+  ]
+}

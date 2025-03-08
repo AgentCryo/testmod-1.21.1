@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "testmod:block/shiny_lamp"
+    },
+    "clicked=true": {
+      "model": "testmod:block/shiny_lamp_on"
+    }
+  }
+}

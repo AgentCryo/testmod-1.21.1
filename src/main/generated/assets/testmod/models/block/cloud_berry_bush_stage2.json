@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "testmod:block/cloud_berry_bush_stage2"
+  }
+}

@@ -1,0 +1,8 @@
+// 1.21.1	2025-03-07T21:52:32.0078969	testmod/Tags for minecraft:block
+74d162bce6fe10d0834d62f7cbbd678cd1af5e34 data\minecraft\tags\block\walls.json
+81e2e31e153038e9b221f8ec144395024c986b40 data\minecraft\tags\block\needs_iron_tool.json
+81e2e31e153038e9b221f8ec144395024c986b40 data\minecraft\tags\block\mineable\pickaxe.json
+32b13946c4cd1f944b029659ccce5fcb2adad4ff data\testmod\tags\block\needs_star_forged_tool.json
+cb891343399da9a946adc8f6a852839253515c7d data\minecraft\tags\block\logs_that_burn.json
+dc07a19117ac38f2741a8e506ae21d6dc8c12fc0 data\minecraft\tags\block\fence_gates.json
+5b6ab1cdf44a5c7eb8b763ab72c7900454b3873d data\minecraft\tags\block\wooden_fences.json

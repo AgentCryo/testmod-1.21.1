@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "testmod:block/gulm_wood_log",
+    "side": "testmod:block/gulm_wood_log"
+  }
+}

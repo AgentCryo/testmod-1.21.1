@@ -1,0 +1,20 @@
+{
+  "type": "testmod:forge",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "testmod:star_dust"
+    },
+    "S": {
+      "item": "testmod:shiny"
+    }
+  },
+  "result": {
+    "id": "testmod:star_forged_ingot",
+    "count": 1
+  }
+}

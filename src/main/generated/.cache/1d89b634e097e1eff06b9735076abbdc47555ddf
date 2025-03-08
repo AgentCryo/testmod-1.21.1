@@ -1,0 +1,11 @@
+// 1.21.1	2025-03-07T21:52:32.0125325	testmod/Tags for minecraft:item
+1a5e0bf3d6ef6e3a0852690065ec644dd3d70bdf data\minecraft\tags\item\pickaxes.json
+c11fff4903ae357719ad2a79e5240773d302caa2 data\minecraft\tags\item\shovels.json
+6f54b85b5345f3154d8133fe227b65de7aa511e6 data\minecraft\tags\item\axes.json
+ab2debb2e44047b921e8d71003f8876e37b3ae53 data\minecraft\tags\item\trimmable_armor.json
+1c6d13dca8bfcb31ad31770aee399b590a6cb53d data\minecraft\tags\item\swords.json
+adf9e63b102dd95c356b5c7dbffbe171f0049bab data\testmod\tags\item\star_forged_repair.json
+cb891343399da9a946adc8f6a852839253515c7d data\minecraft\tags\item\logs_that_burn.json
+b097907f5ea28a7e5bf4415b1a9000a2658086d3 data\minecraft\tags\item\planks.json
+9870dde1d86e07f17bda5a46d03bc227bfa33389 data\testmod\tags\item\magic_block_to_diamonds.json
+fe9710029f124b12a08aaa27e0796e55a24daefd data\minecraft\tags\item\hoes.json

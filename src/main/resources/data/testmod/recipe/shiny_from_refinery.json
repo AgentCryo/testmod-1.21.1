@@ -1,0 +1,12 @@
+{
+  "type": "testmod:refinery",
+  "ingredients": [
+    {
+      "item": "testmod:unrefined_shiny"
+    }
+  ],
+  "result": {
+    "id": "testmod:shiny",
+    "count": 1
+  }
+}
